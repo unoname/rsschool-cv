@@ -1,15 +1,22 @@
+rsschool-cv
+
 # ALEXANDER PANOV
 
 ## Junior Frontend Developer
 
-### Contact Me\
+### Contact Me
 
-email: apanov08@gmail.com\
-tel: 89372130416
+E-mail: apanov08@gmail.com\
+Tel: 89372130416\
+Discord: unoname
 
 ### About Me
 
+I am a lawyer by training. I have experience in this field. I also worked as a household appliance repairman. In 2020, I took web development courses from the employment center. Since the course program was weak, I left programming for about a year. In 2021, I completed programming courses at Innopolis University. There I learned about RSShool. I really like programming and I think that RSSchool can help me master this profession. That's why I'm here (RSShool).
+
 ### Education
+
+2021 - Сourses professional retraining "Innopolis University" (qualification Junior Frontend Developer)
 
 ### Skills
 
@@ -40,3 +47,7 @@ function rgb(r, g, b){
 ```
 
 #### Reference
+
+[![Image](./icons/free-icon-github-logo-25231.png)GitHub](https://github.com/unoname)
+
+[![Image](./icons/codewars_button_icon_151901.png)](https://www.codewars.com/users/Alexandr%20Panov)
