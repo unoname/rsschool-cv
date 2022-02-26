@@ -20,11 +20,14 @@ I am a lawyer by training. I have experience in this field. I also worked as a h
 
 ### Skills
 
+Basic
+
 - HTML
 - CSS
 - JavaScript
 - React
 - Git
+- English (A1)
 
 ### Code Example
 
