@@ -37,6 +37,13 @@ Codewars Function composition
 const compose = (...functions) => (a) => functions.reduceRight((acc,cur)=>cur(acc),a)
 ```
 
+### Pet Projects
+[![Alt text](image.png)](https://quiz-songbird.netlify.app/quiz)
+
+
+[![Alt text](image-1.png)](https://rolling-scopes-school.github.io/unoname-JSFE2023Q1/migration-to-ts/)
+
+[![Alt text](image-2.png)](https://649b21d52097310086b24393--effulgent-cajeta-47562a.netlify.app/)
 #### Reference
 
 [![Image](./icons/free-icon-github-logo-25231.png)GitHub](https://github.com/unoname) [![Image](./icons/codewars_button_icon_151901.png)](https://www.codewars.com/users/Alexandr%20Panov) ![Image](./icons/4691243_freecodecamp_icon.png)[freecodecamp](https://www.freecodecamp.org/fcc2dff6e20-041d-4e7b-8b42-092ad882af0b)
